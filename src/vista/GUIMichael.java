@@ -47,7 +47,7 @@ public class GUIMichael extends javax.swing.JFrame {
 
         jLabel4.setFont(new java.awt.Font("Ubuntu", 3, 18)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(1, 156, 21));
-        jLabel4.setText("Vinicio");
+        jLabel4.setText("Vinicio1");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
