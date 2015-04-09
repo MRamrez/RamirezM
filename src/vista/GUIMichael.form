@@ -116,7 +116,7 @@
         <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="15" green="9c" red="1" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Vinicio1"/>
+        <Property name="text" type="java.lang.String" value="Vinicio2"/>
       </Properties>
     </Component>
   </SubComponents>
